@@ -34,8 +34,7 @@
     <ClCompile Include="ObjBackground.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\指南書\２Ｄライブラリ\GameHead.h" />
-    <ClInclude Include="D:\指南書\２Ｄライブラリ\main.h" />
+    <ClInclude Include="GameHead.h" />
     <ClInclude Include="GameL\Audio.h" />
     <ClInclude Include="GameL\DirectXDevice.h" />
     <ClInclude Include="GameL\DrawFont.h" />
@@ -47,6 +46,7 @@
     <ClInclude Include="GameL\SetWindow.h" />
     <ClInclude Include="GameL\UserData.h" />
     <ClInclude Include="GameL\WinInputs.h" />
+    <ClInclude Include="main.h" />
     <ClInclude Include="ObjBackground.h" />
   </ItemGroup>
   <ItemGroup>
