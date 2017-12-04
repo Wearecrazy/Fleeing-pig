@@ -31,6 +31,7 @@
     <ClCompile Include="..\..\..\..\..\Desktop\２Ｄライブラリ\GameL\SetWindow.cpp" />
     <ClCompile Include="..\..\..\..\..\Desktop\２Ｄライブラリ\GameL\UserData.cpp" />
     <ClCompile Include="..\..\..\..\..\Desktop\２Ｄライブラリ\GameL\WinInputs.cpp" />
+    <ClCompile Include="t.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\Desktop\２Ｄライブラリ\GameHead.h" />
