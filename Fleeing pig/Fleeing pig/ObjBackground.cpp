@@ -22,5 +22,11 @@ void CObjBackground::Action()
 //ドロー
 void CObjBackground::Draw()
 {
+	//描画カラー情報　R=RED
+
+
+
+
+
 
 }
